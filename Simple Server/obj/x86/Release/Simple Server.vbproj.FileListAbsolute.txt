@@ -1,0 +1,8 @@
+C:\Users\Sereja\Documents\Visual Studio 2010\Projects\login\Simple Server\Simple Server\bin\Release\Simple Server.exe
+C:\Users\Sereja\Documents\Visual Studio 2010\Projects\login\Simple Server\Simple Server\bin\Release\Simple Server.pdb
+C:\Users\Sereja\Documents\Visual Studio 2010\Projects\login\Simple Server\Simple Server\bin\Release\Simple Server.xml
+C:\Users\Sereja\Documents\Visual Studio 2010\Projects\login\Simple Server\Simple Server\obj\x86\Release\Simple_Server.Resources.resources
+C:\Users\Sereja\Documents\Visual Studio 2010\Projects\login\Simple Server\Simple Server\obj\x86\Release\Simple Server.vbproj.GenerateResource.Cache
+C:\Users\Sereja\Documents\Visual Studio 2010\Projects\login\Simple Server\Simple Server\obj\x86\Release\Simple Server.exe
+C:\Users\Sereja\Documents\Visual Studio 2010\Projects\login\Simple Server\Simple Server\obj\x86\Release\Simple Server.xml
+C:\Users\Sereja\Documents\Visual Studio 2010\Projects\login\Simple Server\Simple Server\obj\x86\Release\Simple Server.pdb

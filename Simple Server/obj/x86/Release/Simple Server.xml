@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SimpleServer
+</name>
+</assembly>
+<members>
+<member name="P:Simple_Server.My.Resources.Resources.ResourceManager">
+	<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member><member name="P:Simple_Server.My.Resources.Resources.Culture">
+	<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member><member name="P:Simple_Server.My.Resources.Resources.ip">
+	<summary>
+  Ищет локализованную строку, похожую на 127.0.0.1.
+</summary>
+</member><member name="P:Simple_Server.My.Resources.Resources.port">
+	<summary>
+  Ищет локализованную строку, похожую на 3002.
+</summary>
+</member><member name="T:Simple_Server.My.Resources.Resources">
+	<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+</members>
+</doc>
